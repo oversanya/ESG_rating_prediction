@@ -1,4 +1,4 @@
-# ESG rating using NLP 
+# ESG rating prediction using NLP 
 Web parser for a team course project. 
 HSE CS AMI students '26
 
